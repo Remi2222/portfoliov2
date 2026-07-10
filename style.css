@@ -95,7 +95,7 @@ ul { list-style: none; }
   50% { transform: translateY(8px); }
 }
 html {
-  font-size: 110%;
+  font-size: 120%;
 }
 /* ===== 5. Hero ===== */
 #start { align-items: flex-start; text-align: left; padding-left: 10%; }
