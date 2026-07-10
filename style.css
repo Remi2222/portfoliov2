@@ -94,7 +94,9 @@ ul { list-style: none; }
   0%, 100% { transform: translateY(0); }
   50% { transform: translateY(8px); }
 }
-
+html {
+  font-size: 110%;
+}
 /* ===== 5. Hero ===== */
 #start { align-items: flex-start; text-align: left; padding-left: 10%; }
 .eyebrow {
